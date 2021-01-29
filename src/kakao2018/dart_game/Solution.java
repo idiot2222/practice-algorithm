@@ -40,9 +40,3 @@ class Solution {
     }
 }
 
-class Test {
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        System.out.println(solution.solution("1S2D*3T"));
-    }
-}
